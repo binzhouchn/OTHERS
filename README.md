@@ -4,6 +4,5 @@
 
 [**2. 健身笔记**](workout)
 
-[**好东西**]
+[**3. 好东西**](https://segmentfault.com/a/1190000006810047)
 
-https://segmentfault.com/a/1190000006810047
